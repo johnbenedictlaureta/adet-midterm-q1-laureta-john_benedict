@@ -1,0 +1,27 @@
+D:\Acads\OnionMovie2\app.domain\bin\Debug\netstandard2.0\app.domain.deps.json
+D:\Acads\OnionMovie2\app.domain\bin\Debug\netstandard2.0\app.domain.dll
+D:\Acads\OnionMovie2\app.domain\obj\Debug\netstandard2.0\app.domain.csprojAssemblyReference.cache
+D:\Acads\OnionMovie2\app.domain\obj\Debug\netstandard2.0\app.domain.AssemblyInfoInputs.cache
+D:\Acads\OnionMovie2\app.domain\obj\Debug\netstandard2.0\app.domain.AssemblyInfo.cs
+D:\Acads\OnionMovie2\app.domain\bin\Debug\netstandard2.0\app.domain.pdb
+D:\Acads\OnionMovie2\app.domain\obj\Debug\netstandard2.0\app.domain.csproj.CoreCompileInputs.cache
+D:\Acads\OnionMovie2\app.domain\obj\Debug\netstandard2.0\app.domain.dll
+D:\Acads\OnionMovie2\app.domain\obj\Debug\netstandard2.0\app.domain.pdb
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.domain\bin\Debug\netstandard2.0\app.domain.deps.json
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.domain\bin\Debug\netstandard2.0\app.domain.dll
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.domain\bin\Debug\netstandard2.0\app.domain.pdb
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.domain\obj\Debug\netstandard2.0\app.domain.csprojAssemblyReference.cache
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.domain\obj\Debug\netstandard2.0\app.domain.AssemblyInfoInputs.cache
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.domain\obj\Debug\netstandard2.0\app.domain.AssemblyInfo.cs
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.domain\obj\Debug\netstandard2.0\app.domain.csproj.CoreCompileInputs.cache
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.domain\obj\Debug\netstandard2.0\app.domain.dll
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.domain\obj\Debug\netstandard2.0\app.domain.pdb
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.domain\bin\Debug\netstandard2.0\app.domain.deps.json
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.domain\bin\Debug\netstandard2.0\app.domain.dll
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.domain\bin\Debug\netstandard2.0\app.domain.pdb
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.domain\obj\Debug\netstandard2.0\app.domain.csprojAssemblyReference.cache
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.domain\obj\Debug\netstandard2.0\app.domain.AssemblyInfoInputs.cache
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.domain\obj\Debug\netstandard2.0\app.domain.AssemblyInfo.cs
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.domain\obj\Debug\netstandard2.0\app.domain.csproj.CoreCompileInputs.cache
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.domain\obj\Debug\netstandard2.0\app.domain.dll
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.domain\obj\Debug\netstandard2.0\app.domain.pdb

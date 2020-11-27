@@ -1,0 +1,28 @@
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\appsettings.Development.json
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\appsettings.json
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.repository.deps.json
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.repository.dll
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.repository.pdb
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.domain.dll
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.domain.pdb
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.csprojAssemblyReference.cache
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.AssemblyInfoInputs.cache
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.AssemblyInfo.cs
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.csproj.CoreCompileInputs.cache
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.csproj.CopyComplete
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.dll
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.pdb
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\bin\Debug\netstandard2.0\appsettings.Development.json
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\bin\Debug\netstandard2.0\appsettings.json
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\bin\Debug\netstandard2.0\app.repository.deps.json
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\bin\Debug\netstandard2.0\app.repository.dll
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\bin\Debug\netstandard2.0\app.repository.pdb
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\bin\Debug\netstandard2.0\app.domain.dll
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\bin\Debug\netstandard2.0\app.domain.pdb
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\obj\Debug\netstandard2.0\app.repository.csprojAssemblyReference.cache
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\obj\Debug\netstandard2.0\app.repository.AssemblyInfoInputs.cache
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\obj\Debug\netstandard2.0\app.repository.AssemblyInfo.cs
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\obj\Debug\netstandard2.0\app.repository.csproj.CoreCompileInputs.cache
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\obj\Debug\netstandard2.0\app.repository.csproj.CopyComplete
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\obj\Debug\netstandard2.0\app.repository.dll
+C:\Users\mayonnaise man\Downloads\adet-midterm-q1-sampedro-james-master\app.repository\obj\Debug\netstandard2.0\app.repository.pdb
